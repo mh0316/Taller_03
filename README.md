@@ -23,5 +23,5 @@ Caso 4:
 - La clase Equipo depende de la clase Jugador.
 
 Caso 5:
-- Clase Evento, clase Show.
-- La clase Show se compone de varios eventos de la clase Eventos.
+- Clase Evento.
+- La clase Evento de compone de varios eventos.
