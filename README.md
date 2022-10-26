@@ -25,3 +25,6 @@ Caso 4:
 Caso 5:
 - Clase Evento.
 - La clase Evento de compone de varios eventos de la misma clase.
+
+Caso abordado:
+Caso 3: Un pedido se hace exactamente a un meser@, y un meser@ puede atender múltiples pedidos.
