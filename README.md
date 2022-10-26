@@ -24,4 +24,4 @@ Caso 4:
 
 Caso 5:
 - Clase Evento.
-- La clase Evento de compone de varios eventos.
+- La clase Evento de compone de varios eventos de la misma clase.
